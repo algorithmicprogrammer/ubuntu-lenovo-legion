@@ -12,11 +12,17 @@
 ## My System
 ### My Machine
 <ul>
-	<li>Lenovo Legion 7i</li>
+	<li>Model: Lenovo Legion 7i</li>
+	<li>Model No: 83FD0015US</li>
+	<li>Generation: 9</li>
+	<li>Screen Size: 16 inches</li>
 	<li>CPU: 14th generation Intel Core i9</li>
 	<li>GPU: Nvidia GeForce RTX 4070</li>
 	<li>RAM: 32 GB</li>
 </ul>
+
+### Operating System
+Ubuntu 
 
 ### What Works Out-of-the-Box
 - RGB backlit keyboard
