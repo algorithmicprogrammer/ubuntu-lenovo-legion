@@ -28,6 +28,9 @@
 </ul>
 
 ## Installing Ubuntu
+### Creating a Bootable USB Stick
+In the installation tutorial on the Ubuntu website, balenaEtcher is used to write the downloaded ISO to the USB stick. However, if you're using a Windows machine to create your bootable USB stick, I recommend using Rufus instead of balenaEtcher. Detailed instructions for creating a bootable USB stick with Rufus are available <a href="https://ubuntu.com/tutorials/create-a-usb-stick-on-windows#1-overview">here</a>, on the Ubuntu website. The reason I don't recommend using balenaEtcher is because it creates partitions in your USB and won't format the disk due to write protection (this isn't an issue that can be resolved with diskpart, regedit, or Properties). You won't run into any of these problems with Rufus. 
+
 ### What Works Out-of-the-Box
 <ul>
 	<li>Wi-Fi</li>
