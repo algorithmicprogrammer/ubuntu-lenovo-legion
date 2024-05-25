@@ -40,10 +40,12 @@ Before initiating your Ubuntu installation, it is good practice to disable secur
 	<li>power button</li>
 	<li>RGB keyboard backlighting</li>
 	<li>audio (headphones/speakers)</li>
+	<li>USB-A ports</li>
 </ul>
 
 ### What Doesn't Work Out-of-the-Box
 <ul>
 	<li>number keypad</li>
+	<li>webcam</li>
 </ul>
   
