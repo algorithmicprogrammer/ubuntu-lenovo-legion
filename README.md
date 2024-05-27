@@ -39,6 +39,7 @@ Before initiating your Ubuntu installation, it is good practice to disable secur
 <ul>
 	<li>Wi-Fi</li>
 	<li>power button</li>
+	<li>basic keyboard functionality</li>
 	<li>RGB keyboard backlighting</li>
 	<li>audio (headphones/speakers)</li>
 	<li>USB-A ports</li>
