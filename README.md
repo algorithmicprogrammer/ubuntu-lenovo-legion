@@ -49,3 +49,6 @@ Before initiating your Ubuntu installation, it is good practice to disable secur
 	<li>webcam</li>
 </ul>
   
+## Issues 
+### Node.js
+<code>sudo apt install nodejs</code> installs Node.js version 18.19.1 as opposed to the latest LTS release (20.13.1).
