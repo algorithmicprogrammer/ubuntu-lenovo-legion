@@ -51,5 +51,5 @@ Before initiating your Ubuntu installation, it is good practice to disable secur
 </ul>
   
 ## Issues 
-### Node.js
-<code>sudo apt install nodejs</code> installs Node.js version 18.19.1 as opposed to the latest LTS release (20.13.1).
+### Node.js and npm
+<code>sudo apt install nodejs</code> installs Node.js version 18.19.1 as opposed to the latest LTS release (20.13.1). <code>sude apt install npm</code> installs npm version 9.2.0 when the latest version is 10.8.0.
