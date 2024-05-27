@@ -1,4 +1,5 @@
 # Ubuntu on Lenovo Legion
+This is a comprehensive guide for installing, using,and optimizing Ubuntu on a Lenovo Legion device. This guide is geared towards individuals who are more tech-saavy than the average person (i.e. developers) who are perhaps new to Ubuntu and/or Linux, coming from a different operating system (MacOS or Windows).
 
 ## Table of Contents
 1. [My System](#my-system)
