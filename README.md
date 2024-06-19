@@ -1,5 +1,5 @@
 # Ubuntu on Lenovo Legion
-This is a comprehensive guide for installing, using, and optimizing Ubuntu on a Lenovo Legion device. This guide is geared towards individuals who are more tech-saavy than the average person (i.e. developers) who are perhaps new to Ubuntu and/or Linux, coming from a different operating system (MacOS or Windows).
+This is a comprehensive guide for installing, using, and optimizing Ubuntu on a Lenovo Legion device. This guide is geared towards individuals who are new to Ubuntu and/or Linux, coming from a different operating system (MacOS or Windows).
 
 ## Table of Contents
 1. [My System](#my-system)
@@ -47,10 +47,13 @@ Before initiating your Ubuntu installation, it is good practice to disable secur
 
 ### What Doesn't Work Out-of-the-Box
 <ul>
-	<li>number keypad</li>
-	<li>webcam</li>
+	<li>n</li>
+	<li></li>
 </ul>
   
-## Issues 
+## Troubleshooting Potential Issues 
+### Connecting to a WiFi Network
+Just to be clear, WiFi does work out-of-the-box with Ubuntu 24.04 LTS. However, you may have trouble connecting to a WiFi network at a hotel or coffee shop which requires you to enter a password, agree to certain terms & conditions, provide your email address, etc. This is because the window which prompts users for a password, email, etc. won't appear automatically upon attempting to connect to a WiFi network. Fortunately, there is an easy workaround for this. Type <code>ip route</code> into your terminal. Copy the default IP address into your browser. That will direct you to the  login page for the network.
+
 ### Node.js and npm
 <code>sudo apt install nodejs</code> installs Node.js version 18.19.1 as opposed to the latest LTS release (20.13.1). <code>sudo apt install npm</code> installs npm version 9.2.0 when the latest version is 10.8.0.
