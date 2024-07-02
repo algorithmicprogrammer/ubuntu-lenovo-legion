@@ -47,8 +47,8 @@ Before initiating your Ubuntu installation, it is good practice to disable secur
 
 ### What Doesn't Work Out-of-the-Box
 <ul>
-	<li>n</li>
-	<li></li>
+	<li>brightness keys</li>
+	<li>volume keys</li>
 </ul>
   
 ## Troubleshooting Potential Issues 
