@@ -9,6 +9,9 @@ This is a comprehensive guide for installing, using, and optimizing Ubuntu on a 
 	- [Creating a Bootable USB Stick](#creating-a-bootable-usb-stick)
 	- [Disabling Secure Boot](#disabling-secure-boot)
 	- [What Works Out-of-the-Box](#what-works-out-of-the-box)
+2. [Troubleshooting Potential Issues](#troubleshooting-potential-issues-)
+    - [Connecting to a Wi-Fi Network](#connecting-to-a-wifi-network)
+    - [Webcam](#webcam)
 
 ## My System
 ### My Machine
@@ -55,4 +58,5 @@ Before initiating your Ubuntu installation, it is good practice to disable secur
 ### Connecting to a WiFi Network
 Just to be clear, WiFi does work out-of-the-box with Ubuntu 24.04 LTS. However, you may have trouble connecting to a WiFi network at a hotel or coffee shop which requires you to enter a password, agree to certain terms & conditions, provide your email address, etc. This is because the window which prompts users for a password, email, etc. won't appear automatically upon attempting to connect to a WiFi network. Fortunately, there is an easy workaround for this. Type <code>ip route</code> into your terminal. Copy the default IP address into your browser. That will direct you to the  login page for the network.
 
-
+### Webcam
+The webcam does work out-of-the-box with Ubuntu 24.04 LTS. At first, you may encounter a black screen. This may seem obvious, but one has to manually switch off the privacy e-shutter on the right-hand side of the laptop.
