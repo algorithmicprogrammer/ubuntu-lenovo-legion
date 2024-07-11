@@ -12,6 +12,7 @@ This is a comprehensive guide for installing, using, and optimizing Ubuntu on a 
 2. [Troubleshooting Potential Issues](#troubleshooting-potential-issues-)
     - [Connecting to a Wi-Fi Network](#connecting-to-a-wifi-network)
     - [Webcam](#webcam)
+    - [Number Keypad](#number-keypad)
 
 ## My System
 ### My Machine
@@ -70,5 +71,11 @@ Just to be clear, WiFi does work out-of-the-box with Ubuntu 24.04 LTS. However, 
 [(Back to top)](#table-of-contents)
 ### Webcam
 The webcam does work out-of-the-box with Ubuntu 24.04 LTS. At first, you may encounter a black screen. This may seem obvious, but one has to manually switch off the privacy e-shutter on the right-hand side of the laptop.
+
+[(Back to top)](#table-of-contents)
+
+### Number Keypad
+The number keypad does work out-of-the-box with Ubuntu 24.04 LTS. Again, this may seem obvious, but for some, it can be easy to miss:
+for the number keypad to work, the "Num Lock" key to the right of the "Backspace" key must be enabled.
 
 [(Back to top)](#table-of-contents)
